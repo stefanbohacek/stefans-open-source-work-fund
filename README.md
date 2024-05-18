@@ -2,7 +2,7 @@
 
 Hi there, thank you for your interest in my work!
 
-This page is intended for people who represent an organization. If you are an individual, please visit the Support my work page.
+This page is intended for people who represent an organization. If you are an individual, please visit the [Support my work](https://stefanbohacek.com/support-my-work/) page.
 
 Here is a quick summary of my open-source work.
 
