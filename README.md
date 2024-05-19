@@ -9,6 +9,7 @@ Here is a quick summary of my open-source work.
 - my [public GitHub repositories](https://github.com/stefanbohacek) have 540+ stars combined
 - my [WordPress plugins](https://stefanbohacek.com/tag/wordpress-plugin/) have been installed on 100+ sites
 - my [browser extensions](https://stefanbohacek.com/tag/browser-extension/) have 240+ installs across Firefox + Chrome
+- my [creative bots](https://stefans-creative-bots.glitch.me/) have over 6,000 unique followers combined
 - [my work](https://stefanbohacek.com/projects/) has been [covered by blogs and news sites](https://stefanbohacek.com/press/)
 
 I share all of my work freely, and I actively implement feature requests and fix reported issues.
